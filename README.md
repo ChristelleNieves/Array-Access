@@ -1,2 +1,2 @@
 # Array-Access
-An excercise on handling exceptions in Java
+An exercise on handling exceptions in Java
